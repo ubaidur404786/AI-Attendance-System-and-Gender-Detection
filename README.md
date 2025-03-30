@@ -61,23 +61,9 @@ Traditional attendance tracking is time-consuming and prone to errors. This proj
 - **Privacy & Security**: Addressing facial recognition concerns.
 - **Computational Efficiency**: Optimizing model performance.
 
-## Installation & Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/class-attendance-ai.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the system:
-   ```bash
-   python main.py
-   ```
 
-## License
-This project is licensed under [MIT License](LICENSE).
+
 
 ## Contact
-For queries, contact **Ubaid Ur Rehman** at [your-email@example.com](mailto:your-email@example.com).
+For queries, contact **Ubaid Ur Rehman** at [your-email@example.com](mailto:ubaidfr404786@gmail.com).
 
