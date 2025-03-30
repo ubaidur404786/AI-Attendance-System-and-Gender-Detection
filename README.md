@@ -19,8 +19,7 @@ Date: **March 30, 2025**
 6. [Gender Classification](#gender-classification)
 7. [Ethical Considerations](#ethical-considerations)
 8. [Installation & Usage](#installation--usage)
-9. [License](#license)
-10. [Contact](#contact)
+9. [Contact](#contact)
 
 ## Introduction
 Traditional attendance tracking is time-consuming and prone to errors. This project automates attendance marking by capturing classroom images, detecting faces, recognizing students, and updating attendance records.
