@@ -65,5 +65,5 @@ Traditional attendance tracking is time-consuming and prone to errors. This proj
 
 
 ## Contact
-For queries, contact **Ubaid Ur Rehman** at [your-email@example.com](mailto:ubaidfr404786@gmail.com).
+For queries, contact me at [ubaidfr404786@gmail.com](mailto:ubaidfr404786@gmail.com).
 
