@@ -8,7 +8,7 @@ This AI-based attendance system automates student identification and tracking in
 **Ubaid Ur Rehman**  
 Supervised By: **Prof. Michel Riveill, Diane Lingrand**  
 Institution: **University Côte d’Azur**  
-Date: **March 30, 2025**  
+
 
 ## Table of Contents
 1. [Introduction](#introduction)
